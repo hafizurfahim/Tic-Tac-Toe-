@@ -1,0 +1,13 @@
+E:\C#\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.0\Tic Tac Toe.exe
+E:\C#\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.0\Tic Tac Toe.deps.json
+E:\C#\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.0\Tic Tac Toe.runtimeconfig.json
+E:\C#\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.0\Tic Tac Toe.runtimeconfig.dev.json
+E:\C#\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.0\Tic Tac Toe.dll
+E:\C#\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.0\Tic Tac Toe.pdb
+E:\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.0\Tic Tac Toe.csprojAssemblyReference.cache
+E:\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.0\Tic Tac Toe.AssemblyInfoInputs.cache
+E:\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.0\Tic Tac Toe.AssemblyInfo.cs
+E:\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.0\Tic Tac Toe.dll
+E:\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.0\Tic Tac Toe.pdb
+E:\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+E:\C#\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.0\Tic Tac Toe.genruntimeconfig.cache
